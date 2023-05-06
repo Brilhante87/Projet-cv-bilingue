@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: verdana, sans-serif;
+	font-size: 14px;
+}
+body{width: 1200px;}
+/** La Navbar**/
+.nav{
+	width:1212px;
+	background-color:lightblue;
+}
+.nav-link{
+	    padding-left:60px;
+        color: darkblue;
+}
+.nav-link:hover{ color:red; }
+/** La section A **/
+.A {
+	padding-left: 40px;
+	border-right: 1px solid black;
+	background-color: blanchedalmond;
+}
+/** Image profile **/
+.imgProfile{
+	border-radius: 100%;
+    margin-top: 40px;
+	border:1px solid black;
+}
+/** La section B **/
+.B{background-color: #d5dbdb;}  
+.card{background-color:#d5dbdb;}
+.formation{margin-top: 40px;}
+h1{
+	font-size: 18px;
+	margin-top: 20px;
+}
+h2{
+	margin-top: 40px;
+	font-size: 20px;
+	color: darkblue;
+}
+
+.job{margin-bottom: 20px;}
+.progress{margin-bottom: 10px}
